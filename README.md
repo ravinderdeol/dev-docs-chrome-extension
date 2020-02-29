@@ -1,1 +1,1 @@
-# -dev-docs-chrome-extension
+Dev Docs Chrome Extension
