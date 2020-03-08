@@ -17,7 +17,7 @@ h1 {
 
 p {
   text-align: center;
-  font-family: 'Merriweather', serif;
+  font-family: 'Zilla Slab Highlight', cursive;
   color: #0e172c;
 }
 
@@ -51,6 +51,11 @@ img {
 } */
 
 .modal-icons {
+  height: 50px;
+  width: 100%;
+}
+
+.img-thumbnail {
   height: 50px;
   width: 100%;
 }
